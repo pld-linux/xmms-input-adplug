@@ -1,5 +1,5 @@
 Summary:	AdLib player plugin for XMMS
-Summary(pl.UTF-8):   Wtyczka odtwarzająca AdLib dla XMMS-a
+Summary(pl.UTF-8):	Wtyczka odtwarzająca AdLib dla XMMS-a
 Name:		xmms-input-adplug
 Version:	1.2
 Release:	1
