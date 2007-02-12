@@ -1,5 +1,5 @@
 Summary:	AdLib player plugin for XMMS
-Summary(pl):	Wtyczka odtwarzaj±ca AdLib dla XMMS-a
+Summary(pl.UTF-8):   Wtyczka odtwarzajÄ…ca AdLib dla XMMS-a
 Name:		xmms-input-adplug
 Version:	1.2
 Release:	1
@@ -22,11 +22,11 @@ multimedia player. AdPlug/XMMS uses the AdPlug AdLib sound player
 library to play back a wide range of AdLib (OPL2) music file formats
 on top of an OPL2 emulator. No OPL2 chip is required for playback.
 
-%description -l pl
-AdPlug/XMMS to wtyczka wej¶ciowa XMMS-a. XMMS to wieloplatformowy
-odtwarzacz multimediów. AdPlug/XMMS wykorzystuje bibliotekê
-odtwarzacza d¼wiêku AdLib AdPlug do odtwarzania wielu ró¿nych formatów
-plików muzycznych AdLib (OPL2) przy u¿yciu emulatora OPL2. Uk³ad OPL2
+%description -l pl.UTF-8
+AdPlug/XMMS to wtyczka wejÅ›ciowa XMMS-a. XMMS to wieloplatformowy
+odtwarzacz multimediÃ³w. AdPlug/XMMS wykorzystuje bibliotekÄ™
+odtwarzacza dÅºwiÄ™ku AdLib AdPlug do odtwarzania wielu rÃ³Å¼nych formatÃ³w
+plikÃ³w muzycznych AdLib (OPL2) przy uÅ¼yciu emulatora OPL2. UkÅ‚ad OPL2
 nie jest wymagany do odtwarzania.
 
 %prep
